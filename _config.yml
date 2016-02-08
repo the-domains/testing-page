@@ -1,19 +1,4 @@
-name: Testing Page
-favicon: null
-layout_spectrum: 0.0307
-typography_spectrum: 0.78538
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#f6e8db'
@@ -23,6 +8,11 @@ color:
     - '#eca862'
   brandStrength: 0.1875
   lightness: 0.4375
-  saturation: 0.75
   rhythmicContrast: 0.75
+  saturation: 0.75
+cta: {}
+layout_spectrum: 0.143914
+name: Testing Page
+opengraph: {}
 purpose: []
+typography_spectrum: 0.78538
