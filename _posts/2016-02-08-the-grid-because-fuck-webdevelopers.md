@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T09:27:37.858Z'
-dateModified: '2016-02-08T09:27:28.106Z'
-title: 'The Grid, Because fuck webdevelopers'
+datePublished: '2016-02-08T09:43:38.272Z'
+dateModified: '2016-02-08T09:43:34.903Z'
+title: 'The Grid, Because helping webdevelopers'
 author: []
+sourcePath: _posts/2016-02-08-the-grid-because-fuck-webdevelopers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-the-grid-because-fuck-webdevelopers.md
-published: true
 url: the-grid-because-fuck-webdevelopers/index.html
 _type: Article
 
 ---
-# The Grid, Because fuck webdevelopers
+# The Grid, Because helping webdevelopers
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46247d9-4887-49af-8467-2da947a00a9c.jpg)
 
 # Title
